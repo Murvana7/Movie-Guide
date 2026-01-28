@@ -1,4 +1,4 @@
-# Movie-Guide🎬 Movie Guide App
+🎬 Movie Guide App
 
 A simple web application that helps users discover movies by searching titles and viewing essential details using a movie database API.
 
