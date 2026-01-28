@@ -20,3 +20,11 @@ A simple web application that helps users discover movies by searching titles an
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Movie API](https://img.shields.io/badge/OMDb%20API-000000?style=for-the-badge&logo=imdb&logoColor=white)
+
+▶️ How to Use
+
+- Enter a movie title in the search box
+
+- Click Search
+
+- Browse movie information instantly
