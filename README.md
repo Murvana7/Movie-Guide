@@ -21,7 +21,8 @@ A simple web application that helps users discover movies by searching titles an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 </p>
-![Movie API](https://img.shields.io/badge/OMDb%20API-000000?style=for-the-badge&logo=imdb&logoColor=white)
+- ![OMDb API](https://img.shields.io/badge/OMDb%20API-000000?style=for-the-badge&logo=imdb&logoColor=white)
+
 
 ▶️ How to Use
 
