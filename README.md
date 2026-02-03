@@ -1,8 +1,8 @@
-🎬 Movie Guide App
+# 🎬 Movie Guide App
 
 A simple web application that helps users discover movies by searching titles and viewing essential details using a movie database API.
 
-🚀 Features
+## 🚀 Features
 
 - Search movies by title
 
@@ -14,7 +14,7 @@ A simple web application that helps users discover movies by searching titles an
 
 - Clean and minimal UI
 
-🛠️ Built With
+## 🛠️ Built With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -22,7 +22,7 @@ A simple web application that helps users discover movies by searching titles an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 </p>
 
-▶️ How to Use
+## ▶️ How to Use
 
 - Enter a movie title in the search box
 
